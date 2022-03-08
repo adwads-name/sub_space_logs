@@ -1,0 +1,63 @@
+2022-03-08 17:49:09 Subspace    
+2022-03-08 17:49:09 ✌️  version 0.1.0-35cf6f5-x86_64-linux-gnu    
+2022-03-08 17:49:09 ❤️  by Subspace Labs <https://subspace.network>, 2021-2022    
+2022-03-08 17:49:09 📋 Chain specification: Subspace testnet    
+2022-03-08 17:49:09 🏷  Node name: careful-wool-0519    
+2022-03-08 17:49:09 👤 Role: AUTHORITY    
+2022-03-08 17:49:09 💾 Database: RocksDb at /home/beizil_adv/.local/share/subspace-node-x86_64-ubuntu-20.04-snapshot-2022-jan-05/chains/subspace_test/db/full    
+2022-03-08 17:49:09 ⛓  Native runtime: subspace-100 (subspace-1.tx1.au1)    
+2022-03-08 17:49:10 Last archived block 701617    
+2022-03-08 17:49:10 Archiving already produced blocks 701618..=701625    
+2022-03-08 17:49:10 🏷  Local node identity is: 12D3KooWGKUfS3HDeSUn5e3YRD7KSCQBLcEyswssotAp9TzxJd7V    
+2022-03-08 17:49:11 🧑🌾 Starting Subspace Authorship worker    
+2022-03-08 17:49:11 📦 Highest known block at #701725    
+2022-03-08 17:49:11 〽️ Prometheus exporter started at 127.0.0.1:9615    
+2022-03-08 17:49:11 Listening for new connections on 0.0.0.0:9944.    
+2022-03-08 17:49:11 🔍 Discovered new external address for our node: /ip4/34.122.221.90/tcp/30333/p2p/12D3KooWGKUfS3HDeSUn5e3YRD7KSCQBLcEyswssotAp9TzxJd7V    
+2022-03-08 17:49:16 💤 Idle (6 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 27.2kiB/s ⬆ 298.2kiB/s    
+2022-03-08 17:49:17 💔 Verification failed for block 0x8ce710785b4d3afcff16e42938e01fa8108a611432fbcef7eab320318dab3b4e received from peer: 12D3KooWS2FAdcHj3UFXwzSf5UpRp9Ba7WzygLQsXSA2ksGXxT2V, "Checking inherents failed: InherentError::IncorrectRootBlocksList"    
+2022-03-08 17:49:19 💔 Verification failed for block 0x8ce710785b4d3afcff16e42938e01fa8108a611432fbcef7eab320318dab3b4e received from peer: 12D3KooWHsmAKn2ZoWE6sAZdDy5MfKidEtH5ZzDhHhaMSxgD28AF, "Checking inherents failed: InherentError::IncorrectRootBlocksList"    
+2022-03-08 17:49:21 ⚙️  Syncing  0.0 bps, target=#702473 (13 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 427.6kiB/s ⬆ 757.5kiB/s    
+2022-03-08 17:49:21 💔 Verification failed for block 0x8ce710785b4d3afcff16e42938e01fa8108a611432fbcef7eab320318dab3b4e received from peer: 12D3KooWJmGpSrrgpUa9xGRe1jJkQzPumoe8NwNRUwtoTfhPLiGC, "Checking inherents failed: InherentError::IncorrectRootBlocksList"    
+2022-03-08 17:49:22 💔 Verification failed for block 0x8ce710785b4d3afcff16e42938e01fa8108a611432fbcef7eab320318dab3b4e received from peer: 12D3KooWRc66vVgLBRkskNuSAtj1zoLSKRsSaFkSTesJV5jSBj4D, "Checking inherents failed: InherentError::IncorrectRootBlocksList"    
+2022-03-08 17:49:25 💔 Verification failed for block 0x8ce710785b4d3afcff16e42938e01fa8108a611432fbcef7eab320318dab3b4e received from peer: 12D3KooWDDufjvtABeBTRc1xPNEEChw1AmT3GQTTQgN36hcAMUp2, "Checking inherents failed: InherentError::IncorrectRootBlocksList"
+2022-03-08 17:49:26 💤 Idle (8 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 454.9kiB/s ⬆ 550.4kiB/s    
+2022-03-08 17:49:31 ❌ Error while dialing /dns/telemetry.polkadot.io/tcp/443/x-parity-wss/%2Fsubmit%2F: Custom { kind: Other, error: Timeout }    
+2022-03-08 17:49:31 💤 Idle (9 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 10.9kiB/s ⬆ 528.9kiB/s    
+2022-03-08 17:49:36 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 1.7kiB/s ⬆ 576.0kiB/s    
+2022-03-08 17:49:41 💤 Idle (9 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.7kiB/s ⬆ 753.3kiB/s    
+2022-03-08 17:49:46 💤 Idle (9 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 1.3kiB/s ⬆ 517.4kiB/s    
+2022-03-08 17:49:51 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 1.2kiB/s ⬆ 511.2kiB/s    
+2022-03-08 17:49:56 💤 Idle (9 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.6kiB/s ⬆ 522.9kiB/s    
+2022-03-08 17:50:01 💤 Idle (9 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.6kiB/s ⬆ 0.6kiB/s    
+2022-03-08 17:50:06 💤 Idle (9 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.9kiB/s ⬆ 0.9kiB/s    
+2022-03-08 17:50:11 💤 Idle (9 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.2kiB/s ⬆ 223.5kiB/s
+2022-03-08 17:50:15 💔 Verification failed for block 0x8ce710785b4d3afcff16e42938e01fa8108a611432fbcef7eab320318dab3b4e received from peer: 12D3KooWSN8j3h2KRXYfPnbBNNmmzAMJUxaJEs5xJm8JMnteqYxo, "Checking inherents failed: InherentError::IncorrectRootBlocksList"    
+2022-03-08 17:50:16 ⚙️  Syncing  0.0 bps, target=#702483 (13 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 165.2kiB/s ⬆ 154.8kiB/s    
+2022-03-08 17:50:16 💔 Verification failed for block 0x8ce710785b4d3afcff16e42938e01fa8108a611432fbcef7eab320318dab3b4e received from peer: 12D3KooWLM8y3PJrZhp6uhwBztkFnWzR16opv7gkNrDhovmGoZuJ, "Checking inherents failed: InherentError::IncorrectRootBlocksList"    
+2022-03-08 17:50:21 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 253.8kiB/s ⬆ 418.4kiB/s    
+2022-03-08 17:50:26 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.5kiB/s ⬆ 167.1kiB/s    
+2022-03-08 17:50:31 💤 Idle (11 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 2.2kiB/s ⬆ 184.2kiB/s    
+2022-03-08 17:50:36 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.6kiB/s ⬆ 0.5kiB/s    
+2022-03-08 17:50:41 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.6kiB/s ⬆ 172.6kiB/s    
+2022-03-08 17:50:46 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 1.0kiB/s ⬆ 230.4kiB/s    
+2022-03-08 17:50:51 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.9kiB/s ⬆ 58.2kiB/s    
+2022-03-08 17:50:56 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.2kiB/s ⬆ 0.2kiB/s    
+2022-03-08 17:51:01 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 1.2kiB/s ⬆ 58.8kiB/s    
+2022-03-08 17:51:06 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.7kiB/s ⬆ 115.3kiB/s    
+2022-03-08 17:51:11 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.3kiB/s ⬆ 0.3kiB/s    
+2022-03-08 17:51:16 ⚙️  Syncing  0.0 bps, target=#702490 (11 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 20.3kiB/s ⬆ 15.0kiB/s    
+2022-03-08 17:51:16 💔 Verification failed for block 0x8ce710785b4d3afcff16e42938e01fa8108a611432fbcef7eab320318dab3b4e received from peer: 12D3KooWDjMregGbGZKNxYumW4YRAxbv4jsb6jKsmBCJYcHE3bdc, "Checking inherents failed: InherentError::IncorrectRootBlocksList"    
+2022-03-08 17:51:21 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 116.3kiB/s ⬆ 116.3kiB/s
+2022-03-08 17:51:26 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 1.1kiB/s ⬆ 345.5kiB/s    
+2022-03-08 17:51:31 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 1.2kiB/s ⬆ 287.9kiB/s    
+2022-03-08 17:51:36 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.7kiB/s ⬆ 0.7kiB/s    
+2022-03-08 17:51:41 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.3kiB/s ⬆ 0.2kiB/s    
+2022-03-08 17:51:46 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 1.2kiB/s ⬆ 1.5kiB/s    
+2022-03-08 17:51:51 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.4kiB/s ⬆ 109.0kiB/s    
+2022-03-08 17:51:56 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.8kiB/s ⬆ 121.6kiB/s    
+2022-03-08 17:52:01 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 1.0kiB/s ⬆ 116.0kiB/s    
+2022-03-08 17:52:06 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.8kiB/s ⬆ 0.8kiB/s    
+2022-03-08 17:52:11 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.3kiB/s ⬆ 0.3kiB/s    
+2022-03-08 17:52:16 ⚙️  Syncing  0.0 bps, target=#702501 (11 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 11.4kiB/s ⬆ 6.1kiB/s    
+2022-03-08 17:52:21 💤 Idle (10 peers), best: #701725 (0xce0d…36a7), finalized #0 (0x6ada…0d38), ⬇ 0.6kiB/s ⬆ 115.3kiB/s
